@@ -16,6 +16,7 @@ import {
 } from "../../service/movie";
 
 // Adding this comment to HomePage.
+// Adding this comment to HomePage again.
 
 const Homepage = () => {
   const [movies, setMovies] = useState([]);
