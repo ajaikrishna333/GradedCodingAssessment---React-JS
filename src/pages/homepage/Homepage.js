@@ -15,6 +15,8 @@ import {
   removeFromFavourite,
 } from "../../service/movie";
 
+// Adding this comment to HomePage.
+
 const Homepage = () => {
   const [movies, setMovies] = useState([]);
   const [favourites, setFavourites] = useState([]);
